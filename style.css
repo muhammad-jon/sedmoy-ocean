@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.contact-info {
+  background-color: #4f9e60;
+  display: flex;
+  color: white;
+  align-items: center;
+  justify-content: space-around;
+  padding: 1rem 15rem;
+}
+.contact-info div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.contact-info p {
+  margin: 0;
+}
+.contact-info .icon {
+  font-size: 20px;
+  margin-right: 5px;
+}
